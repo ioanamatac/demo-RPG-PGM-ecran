@@ -9,8 +9,8 @@
 4. [Définition écran](#définition-écran) 
 5. [Définition variable](#definition-variable) 
 6. [Sous routine: Générer le code employé](#sous-routine-générer-le-code-employé)
-7. [Sous routine: Validation des champs](#sous-routine-de-validation)
-8. [Sous routine: Enregistrement des valeurs](#sous-routine-enregistrement)
+7. [Sous routine: Validation des champs](#sous-routine-validation-des-champs)
+8. [Sous routine: Enregistrement des valeurs](#sous-routine-enregistrement-des-valeurs)
    
 # 🦕General Info
 
