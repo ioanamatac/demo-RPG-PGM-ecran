@@ -184,6 +184,13 @@ Il faut qu'au moins quatre champs soient remplis sinon une alerte s'affiche à l
         ****************** End of data ****************************************
 
 ```
+> Cargo = Metier pas marchandise(on s'en fout)🥳
+> 
+![Ecran + PGM EMPLOY01](https://github.com/user-attachments/assets/a1316516-372f-4480-91c5-a3c522cc018e)
+
+![Ecriture fichier EMPLOY](https://github.com/user-attachments/assets/e2627e47-e7cb-4992-9030-7cb12387ae14)
+
+
 
 >Enjoy !🫶
 >Ioana
